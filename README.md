@@ -10,7 +10,10 @@
 - Testing and troubleshooting network setups.  
 - Exploring IoT and cybersecurity scenarios.
 
-### Implemented Components  
-- **Network Devices:** Switch, Router, PC/Laptop  
-- **Servers:** DNS, Web, DHCP, FTP
+### Implemented Servers  
+- **DNS Server:** Translates domain names into IP addresses for network communication.  
+- **Web Server:** Hosts and serves websites over HTTP/HTTPS.  
+- **DHCP Server:** Automatically assigns IP addresses to devices in the network.  
+- **FTP Server:** Enables file transfer between devices using the FTP protocol.
+
 
